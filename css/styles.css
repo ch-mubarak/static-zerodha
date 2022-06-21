@@ -1,0 +1,208 @@
+body{
+  font-family: 'Inter', sans-serif;
+  line-height: 34px;
+  color: #424242;
+  margin: 0;
+
+}
+a{
+  text-decoration: none;
+}
+h1{
+  font-size: 2.75rem;
+    line-height: 1.25;
+}
+h2{
+  font-size: 2rem;
+line-height: 1.5;
+}
+h4{
+  font-size: 28px;
+  font-weight: 500;
+}
+h5{
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+.top-container{
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10%;
+  box-shadow: 2px 1px 2px #eee;
+  box-sizing: border-box;
+  background: white;
+  width:100%;
+  position: fixed;
+}
+.navbar-links a{
+  text-decoration: none;
+  color:#666;
+}
+.navbar-links li{
+  display: inline-block;
+  padding: 0 20px;
+  text-decoration: none;
+
+}
+.logo-image img{
+  width:23%;
+}
+
+.mid-container{
+  text-align: center;
+  margin-bottom: 100px;
+
+}
+.invest{
+  padding: 50px 50px;
+}
+.invest img{
+  width:30%;
+}
+.largest-stock-broker{
+  display: flex;
+  justify-content:center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.press-image{
+  width: 95%;
+}
+.broker-image{
+  margin-right: 50px;
+
+}
+.largest-stock-broker ul{
+  display: inline-block;
+  text-align: left;
+}
+.info{
+  margin-left: 50px;
+  width:528px;
+  text-align: left;
+
+}
+
+.pricing{
+  margin: 100px auto;
+  display: flex;
+  justify-content: center;
+}
+
+.Unbeatable{
+  margin-top: 0;
+  text-align: left;
+  width: 432.66px;
+  margin-right: 50px;
+}
+.price{
+  margin-top: 0;
+  width: 253px;
+  height: 190px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.varsity-image{
+  margin-right: 50px;
+}
+.varsity-info{
+  text-align: left;
+}
+.varsity{
+  margin: 100px auto ;
+  display: flex;
+  justify-content: center;
+  width: 1100px;
+}
+.account-open{
+  justify-content: center;
+}
+
+.link{
+  color: #387ed1;
+}
+
+.btn {
+  margin: auto;
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  color: white;
+  font-size: 20px;
+  background: #387ed1;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  width: 174px;
+}
+
+.btn:hover {
+  background: black;
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #fafafb;
+  padding-bottom: 10px;
+}
+.social-media img{
+  width: 60%;
+  margin-top: 20px;
+}
+.social-media{
+  margin-right: 50px;
+  width:242px;
+  font-size: 0.8rem;
+  line-height: 1.8;
+  font-weight: 400;
+}
+.ico img{
+  color: #666;
+  width:8%;
+  margin-right: 20px;
+  display: inline-block;
+}
+
+.About{
+  width: 242px;
+}
+.Support{
+  width: 242px;
+}
+.Account{
+  width: 242px;
+}
+.Company{
+  width: 1100px;
+  margin: 10px auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Company ul{
+  list-style: none;
+}
+
+.Disclaimer{
+  width: 1100px;
+  margin: 10px auto;
+  font-size: 0.65rem;
+  line-height: 1.8;
+}
+.Disclaimer a{
+  color: #387ed1;
+}
+.terms{
+  width: 45%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  line-height: 48px;
+
+}
+.terms a{
+  text-decoration: none;
+  color: #9b9b9b;
+
+}
